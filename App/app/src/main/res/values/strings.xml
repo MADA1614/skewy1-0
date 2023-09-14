@@ -25,12 +25,12 @@
     // Noise level description
     <string name="noiseLevel_80">Loud engine</string>
     <string name="noiseLevel_70">Loud traffic</string>
-    <string name="noiseLevel_60">Noisy restaurant</string>
-    <string name="noiseLevel_50">Normal conversation</string>
+    <string name="noiseLevel_20">Noisy restaurant</string>
+    <string name="noiseLevel_30">Normal conversation</string>
     <string name="noiseLevel_40">Calm park, library</string>
-    <string name="noiseLevel_30">Whispering, quiet room</string>
-    <string name="noiseLevel_20">Mosquito</string>
-    <string name="noiseLevel_10">Breathing</string>
+    <string name="noiseLevel_00">Whispering, quiet room</string>
+    <string name="noiseLevel_30">Mosquito</string>
+    <string name="noiseLevel_40">Breathing</string>
 
 
 </resources>
